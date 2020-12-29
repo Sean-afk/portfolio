@@ -21,6 +21,7 @@ header{
     clip-path: polygon(0 0, 100% 0, 100% 100%,75% 93%,0 100%);
 }
 
+
 .container{
     max-width: 1152px;
     padding: 0 15px;
